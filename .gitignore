@@ -9,9 +9,11 @@
 *.jar
 
 ### NetBeans ###
-**/nbproject/private/
+**/nbproject/
 build/
 dist/
+build.xml
+manifest.mf
 
 ### Intellij ###
 .idea/**/
